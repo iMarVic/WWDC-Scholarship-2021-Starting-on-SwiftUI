@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>uiImage: #imageLi</string>
+			<key>ModifiedRange</key>
+			<string>{1560, 17}</string>
+			<key>OriginalContent</key>
+			<string>sys</string>
+			<key>OriginalRange</key>
+			<string>{1560, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>r</string>
+			<key>ModifiedRange</key>
+			<string>{1579, 1}</string>
+			<key>OriginalContent</key>
+			<string>mN</string>
+			<key>OriginalRange</key>
+			<string>{1565, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>l(</string>
+			<key>ModifiedRange</key>
+			<string>{1581, 2}</string>
+			<key>OriginalContent</key>
+			<string>me: "pe</string>
+			<key>OriginalRange</key>
+			<string>{1568, 7}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>e</string>
+			<key>ModifiedRange</key>
+			<string>{1584, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1576, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>u</string>
+			<key>ModifiedRange</key>
+			<string>{1587, 1}</string>
+			<key>OriginalContent</key>
+			<string>n.crop.ci</string>
+			<key>OriginalRange</key>
+			<string>{1578, 9}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>eName: "profi</string>
+			<key>ModifiedRange</key>
+			<string>{1590, 13}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1589, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.png</string>
+			<key>ModifiedRange</key>
+			<string>{1605, 4}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1591, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>)</string>
+			<key>ModifiedRange</key>
+			<string>{1611, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1593, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>I</string>
+			<key>ModifiedRange</key>
+			<string>{2109, 1}</string>
+			<key>OriginalContent</key>
+			<string>chan</string>
+			<key>OriginalRange</key>
+			<string>{2090, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{2111, 0}</string>
+			<key>OriginalContent</key>
+			<string>e by y</string>
+			<key>OriginalRange</key>
+			<string>{2095, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{2112, 0}</string>
+			<key>OriginalContent</key>
+			<string>u</string>
+			<key>OriginalRange</key>
+			<string>{2102, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Vice</string>
+			<key>ModifiedRange</key>
+			<string>{2114, 4}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2105, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>t</string>
+			<key>ModifiedRange</key>
+			<string>{2119, 1}</string>
+			<key>OriginalContent</key>
+			<string>am</string>
+			<key>OriginalRange</key>
+			<string>{2106, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{2349, 0}</string>
+			<key>OriginalContent</key>
+			<string>change by your occupat</string>
+			<key>OriginalRange</key>
+			<string>{2337, 22}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>OS Devel</string>
+			<key>ModifiedRange</key>
+			<string>{2350, 8}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2360, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>per</string>
+			<key>ModifiedRange</key>
+			<string>{2359, 3}</string>
+			<key>OriginalContent</key>
+			<string>n</string>
+			<key>OriginalRange</key>
+			<string>{2361, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>i</string>
+			<key>ModifiedRange</key>
+			<string>{2592, 1}</string>
+			<key>OriginalContent</key>
+			<string>change by your userna</string>
+			<key>OriginalRange</key>
+			<string>{2592, 21}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>arv</string>
+			<key>ModifiedRange</key>
+			<string>{2594, 3}</string>
+			<key>OriginalContent</key>
+			<string>e (f</string>
+			<key>OriginalRange</key>
+			<string>{2614, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{2599, 0}</string>
+			<key>OriginalContent</key>
+			<string>titious)</string>
+			<key>OriginalRange</key>
+			<string>{2620, 8}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>                    SocialNetworkView(socialNetwork: .Instagram, username: "_imarvic")
+                    SocialNetworkView(socialNetwork: .GitHub, username: "imarvic")
+                    SocialNetworkView(socialNetwork: .Twitter, username: "_imarvic")
+</string>
+			<key>ModifiedRange</key>
+			<string>{4466, 255}</string>
+			<key>OriginalContent</key>
+			<string>                    SocialNetworkView(socialNetwork: .Instagram, username: "userWithoutSpace")
+</string>
+			<key>OriginalRange</key>
+			<string>{4495, 95}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>im</string>
+			<key>ModifiedRange</key>
+			<string>{5359, 2}</string>
+			<key>OriginalContent</key>
+			<string>ch</string>
+			<key>OriginalRange</key>
+			<string>{5228, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{5362, 0}</string>
+			<key>OriginalContent</key>
+			<string>ngeByYou</string>
+			<key>OriginalRange</key>
+			<string>{5231, 8}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>vic@ic</string>
+			<key>ModifiedRange</key>
+			<string>{5363, 6}</string>
+			<key>OriginalContent</key>
+			<string>Emai</string>
+			<key>OriginalRange</key>
+			<string>{5240, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{5370, 0}</string>
+			<key>OriginalContent</key>
+			<string>With</string>
+			<key>OriginalRange</key>
+			<string>{5245, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>d.</string>
+			<key>ModifiedRange</key>
+			<string>{5372, 2}</string>
+			<key>OriginalContent</key>
+			<string>tSpa</string>
+			<key>OriginalRange</key>
+			<string>{5251, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>om</string>
+			<key>ModifiedRange</key>
+			<string>{5375, 2}</string>
+			<key>OriginalContent</key>
+			<string>e</string>
+			<key>OriginalRange</key>
+			<string>{5256, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>5551993152578</string>
+			<key>ModifiedRange</key>
+			<string>{5857, 13}</string>
+			<key>OriginalContent</key>
+			<string>changeByYourPhoneNumberWithoutSpace</string>
+			<key>OriginalRange</key>
+			<string>{5737, 35}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/LetsPractice.playgroundpage/main.swift</string>
+</dict>
+</plist>
